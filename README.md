@@ -11,7 +11,7 @@ KinoVIP — это приложение для поиска и просмотр�
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-username/KinoVIP.git
+   git clone https://github.com/mansur095/KinoVIP.git
    cd KinoVIP
    ```
 2. **Установите зависимости:**
